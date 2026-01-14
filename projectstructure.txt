@@ -1,0 +1,20 @@
+travel_ai_agent/
+│
+├── data/
+│   ├── flights.json
+│   ├── hotels.json
+│   └── places.json
+│
+├── tools/
+│   ├── flight_tool.py
+│   ├── hotel_tool.py
+│   ├── places_tool.py
+│   ├── weather_tool.py
+│   └── budget_tool.py
+│
+├── agent/
+│   └── travel_agent.py
+│
+├── app.py              ← Streamlit UI
+├── requirements.txt
+└── README.md
